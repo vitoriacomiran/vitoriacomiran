@@ -14,7 +14,7 @@ Me chamo Vitória Comiran e sou consultora de software na TomTicket onde trabalh
 - MongoDB
 - Node.Js com framework Fastify
 - Java 11
-- APIs (API REST, Integração com APIs públicas, validação, documentação e segurança)
+- APIs (API REST, integração com APIs públicas, validação, documentação com Swagger e segurança)
 - Boas práticas de arquitetura de software
 
 ## 🧠 Soft Skills:
