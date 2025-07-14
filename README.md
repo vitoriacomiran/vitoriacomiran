@@ -26,21 +26,11 @@ Me chamo Vitória Comiran e sou consultora de software na TomTicket onde trabalh
 - Curiosidade e Proatividade
 - Negociação
 
-## 📜 Certificados:
-- Power BI - Hashtag Treinamentos
-- Formação Modelagem de Dados - Alura
-- Análise de Dados em Linguagem R - ENAP
-- Python Development - FIAP
-- Python para Data Science - Alura
-- Formação Redes de Computadores - Alura
-- Inteligência Artificial e Computacional - FIAP
-- Cloud Fundamentals, Administration and Solution Architect - FIAP
-- Git e GitHub - Rocketseat
-
 ## 🌱 Próximos Passos:
 - Testes automatizados (Jest, Pytest)
 - Padrões de Projeto e Clean Code
 - Docker
+
 
 
 ## 📫 Para conversar comigo:
