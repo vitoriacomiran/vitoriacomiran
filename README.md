@@ -1,6 +1,6 @@
 ## Olá, tudo bem?
 
-Me chamo Vitória Comiran e sou consultora de software na TomTicket onde trabalho com consultoria de software. Tenho formação em Arquitetura de Dados e atualmente estudo desenvolvimento web com foco em back-end.
+Me chamo Vitória Comiran e sou consultora de software na TomTicket.Tenho formação em Arquitetura de Dados e atualmente estudo desenvolvimento web com foco em back-end.
 
 ## 🧩 Conhecimentos:
 - Git
