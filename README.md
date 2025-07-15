@@ -35,6 +35,6 @@ Aqui você encontra alguns dos estudos que estou fazendo e projetos práticos.
 
 
 
-## 📫 Para conversar comigo:
+### 📫 Para conversar comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitoria%20Comiran-blue?logo=linkedin)](https://www.linkedin.com/in/vitoriacomiran/)
 [![Email](https://img.shields.io/badge/Email-comiran.vitoria@gmail.com-red?style=flat)](mailto:comiran.vitoria@gmail.com)
