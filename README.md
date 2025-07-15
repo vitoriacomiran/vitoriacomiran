@@ -1,10 +1,10 @@
-## Olá, tudo bem?
 
-Me chamo Vitória Comiran e sou consultora de software na TomTicket. Tenho formação em Arquitetura de Dados e atualmente estudo desenvolvimento web com foco em back-end.
+
+Olá, tudo bem? Me chamo Vitória Comiran e sou consultora de software na TomTicket. Tenho formação em Arquitetura de Dados e atualmente estudo desenvolvimento web com foco em back-end.
 Aqui você encontra alguns dos estudos que estou fazendo e projetos práticos.
 ✨ 
 
-### 🧩 Conhecimentos:
+### Conhecimentos:
 - Git
 - HTML & CSS
 - JavaScript
@@ -12,7 +12,7 @@ Aqui você encontra alguns dos estudos que estou fazendo e projetos práticos.
 - SQL
 - Banco de Dados (Modelagem de Dados, Arquitetura)
 
-### 📚 Estou estudando:
+### Estou estudando:
 - PostgreSQL
 - MongoDB
 - Node.Js com framework Fastify
@@ -20,7 +20,7 @@ Aqui você encontra alguns dos estudos que estou fazendo e projetos práticos.
 - APIs (API REST, integração com APIs públicas, validação, documentação com Swagger e segurança)
 - Boas práticas de arquitetura de software
 
-### 🧠 Soft Skills:
+### Soft Skills:
 - Comunicação
 - Adaptabilidade
 - Autogerenciamento
@@ -28,7 +28,7 @@ Aqui você encontra alguns dos estudos que estou fazendo e projetos práticos.
 - Curiosidade e Proatividade
 - Negociação
 
-### 🌱 Próximos Passos:
+### Próximos Passos:
 - Testes automatizados (Jest, Pytest)
 - Padrões de Projeto e Clean Code
 - Docker
