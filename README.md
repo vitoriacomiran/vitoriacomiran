@@ -1,8 +1,8 @@
-### Vitória Comiran
+### Olá, como vai?
 
-- Formada em Arquitetura de dados e estudando desenvolviemnto web. 
+- Sou formada em Arquitetura de Dados e estudo desenvolviemnto web. 
 - Em formação contínua, construindo projetos e aprendendo na prática.
-- Estagiária na área de desenvolvimento 
+- Consultora de Software & Dev Intern.
 
 ### Tecnologias em foco:
 JavaScript • Node.js (Fastify) • Python • SQL • PostgreSQL • APIs REST • Java 
