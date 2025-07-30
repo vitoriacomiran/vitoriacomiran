@@ -5,8 +5,7 @@
 - Estagiária na área de desenvolvimento 
 
 ### Tecnologias em foco:
-JavaScript • Node.js (Fastify) • Python • SQL 
-PostgreSQL • APIs REST • Java 
+JavaScript • Node.js (Fastify) • Python • SQL • PostgreSQL • APIs REST • Java 
 
 ### Para conversar comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitoria%20Comiran-blue?logo=linkedin)](https://www.linkedin.com/in/vitoriacomiran/)
