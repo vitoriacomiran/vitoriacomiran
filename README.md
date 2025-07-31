@@ -1,6 +1,6 @@
 ### Olá, como vai?
 
-- Sou formada em Arquitetura de Dados e estudo desenvolviemnto web. 
+- Sou formada em Arquitetura de Dados e estudo desenvolvimento web. 
 - Em formação contínua, construindo projetos e aprendendo na prática.
 - Consultora de Software & Dev Intern.
 
