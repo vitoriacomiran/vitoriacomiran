@@ -18,11 +18,10 @@
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacomiran&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacomiran&layout=compact&theme=radical" />
-</div>
+## 🎮 Pixel Art Retrô
+![Pixel Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
 
 ---
 
@@ -32,4 +31,4 @@
 
 ---
 
-💬 _"Sempre aprendendo, sempre criando."_  
+💬 _"Always learning"_  
