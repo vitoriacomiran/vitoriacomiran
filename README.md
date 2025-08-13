@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 Tecnologias que estou estudaando
+## 📚 Tecnologias que estou estudando
 <div>
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,python,java" />
 </div>
