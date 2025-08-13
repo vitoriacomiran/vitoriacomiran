@@ -16,12 +16,6 @@
   <img src="https://skillicons.dev/icons?i=typescript,angular,tailwind,php,postgres" />
 </div>
 
----
-
-## 🎮 Pixel Art Retrô
-![Pixel Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
 
 ---
 
