@@ -13,7 +13,7 @@
 
 ### 💻 Tecnologias usadas no estágio
 <div>
-  <img src="https://skillicons.dev/icons?i=typescript,angular,tailwind,php,postgres" />
+  <img src="https://skillicons.dev/icons?i=typescript,angular,php,postgres" />
 </div>
 
 
